@@ -1,0 +1,2002 @@
+{
+  "20190926105535": {
+    "start": "09/26/2019 10:55:35",
+    "LoadCredentials": {
+      "status": true
+    }
+  },
+  "20190926111510": {
+    "start": "09/26/2019 11:15:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {}
+  },
+  "20190926112710": {
+    "start": "09/26/2019 11:27:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    }
+  },
+  "20190926113049": {
+    "start": "09/26/2019 11:30:49",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    }
+  },
+  "20190926113221": {
+    "start": "09/26/2019 11:32:21",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    }
+  },
+  "20190926115045": {
+    "start": "09/26/2019 11:50:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "System.Runtime.InteropServices.COMException (0x80040212): Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' />\r\n   at UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   at UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190926033609": {
+    "start": "09/26/2019 15:36:09",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926042057": {
+    "start": "09/26/2019 16:20:57",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "System.Runtime.InteropServices.COMException (0x80040212): Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' />\r\n   at UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   at UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190926044719": {
+    "start": "09/26/2019 16:47:19",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "System.Runtime.InteropServices.COMException (0x80040212): Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' />\r\n   at UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   at UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190926050408": {
+    "start": "09/26/2019 17:04:08",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926052220": {
+    "start": "09/26/2019 17:22:20",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926052617": {
+    "start": "09/26/2019 17:26:17",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926052939": {
+    "start": "09/26/2019 17:29:39",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "System.Runtime.InteropServices.COMException (0x80040212): Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' />\r\n   at UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   at UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190926054154": {
+    "start": "09/26/2019 17:41:54",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926055305": {
+    "start": "09/26/2019 17:53:05",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926060223": {
+    "start": "09/26/2019 18:02:23",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926090610": {
+    "start": "09/26/2019 21:06:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926090711": {
+    "start": "09/26/2019 21:07:11",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926090827": {
+    "start": "09/26/2019 21:08:27",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190926091325": {
+    "start": "09/26/2019 21:13:25",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190928104151": {
+    "start": "09/28/2019 22:41:51",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd ctrlid='74490856' /><wnd ctrlid='5003' title='myContainer' /><wnd ctrlid='1008' /><ctrl name='SAP HANA *' role='list item' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd ctrlid='74490856' /><wnd ctrlid='5003' title='myContainer' /><wnd ctrlid='1008' /><ctrl name='SAP HANA *' role='list item' />\r\n   at UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   at UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- End of inner exception stack trace ---\r\n   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190930115324": {
+    "start": "09/30/2019 11:53:24",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930121125": {
+    "start": "09/30/2019 12:11:25",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930121700": {
+    "start": "09/30/2019 12:17:00",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930124057": {
+    "start": "09/30/2019 12:40:57",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930014552": {
+    "start": "09/30/2019 13:45:52",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: The process cannot access the file 'C:\\Users\\rpa2\\Documents\\UiPath\\StateMachine - 2\\resources\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' because it is being used by another process.\r\n   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   at MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   at DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   at ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) in C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:line 44\r\n   at UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   at UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   at UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   at System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20190930020524": {
+    "start": "09/30/2019 14:05:24",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' />\r\n   at UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   at UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- End of inner exception stack trace ---\r\n   at UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   at System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   at System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190930021422": {
+    "start": "09/30/2019 14:14:22",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "System.Runtime.InteropServices.COMException (0x80040212): Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' />\r\n   at UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   at UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   at System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20190930021858": {
+    "start": "09/30/2019 14:18:58",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930022628": {
+    "start": "09/30/2019 14:26:28",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930030924": {
+    "start": "09/30/2019 15:09:24",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930031433": {
+    "start": "09/30/2019 15:14:33",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930031924": {
+    "start": "09/30/2019 15:19:24",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930033658": {
+    "start": "09/30/2019 15:36:58",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: The process cannot access the file 'C:\\Users\\rpa2\\Documents\\UiPath\\StateMachine - 2\\resources\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' because it is being used by another process.\r\n   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   at MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   at DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   at ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) in C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:line 44\r\n   at UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   at UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   at UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   at System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20190930033720": {
+    "start": "09/30/2019 15:37:20",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930033910": {
+    "start": "09/30/2019 15:39:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930034110": {
+    "start": "09/30/2019 15:41:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930034548": {
+    "start": "09/30/2019 15:45:48",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930035546": {
+    "start": "09/30/2019 15:55:46",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930040334": {
+    "start": "09/30/2019 16:03:34",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930043433": {
+    "start": "09/30/2019 16:34:33",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930044021": {
+    "start": "09/30/2019 16:40:21",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930050116": {
+    "start": "09/30/2019 17:01:16",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: The process cannot access the file 'C:\\Users\\rpa2\\Documents\\UiPath\\StateMachine - 2\\resources\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' because it is being used by another process.\r\n   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   at MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   at System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   at System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   at DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   at DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   at ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) in C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:line 44\r\n   at UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   at UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   at UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   at System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20190930050613": {
+    "start": "09/30/2019 17:06:13",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930102202": {
+    "start": "09/30/2019 22:22:02",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930103219": {
+    "start": "09/30/2019 22:32:19",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930103933": {
+    "start": "09/30/2019 22:39:33",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930105017": {
+    "start": "09/30/2019 22:50:17",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930105423": {
+    "start": "09/30/2019 22:54:23",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930105946": {
+    "start": "09/30/2019 22:59:46",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20190930111651": {
+    "start": "09/30/2019 23:16:51",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": true
+    }
+  },
+  "20191001015644": {
+    "start": "10/01/2019 13:56:44",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003094133": {
+    "start": "10/03/2019 09:41:33",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\\Users\\rpa2\\Documents\\UiPath\\StateMachine - 3\\resources\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' porque está siendo utilizado en otro proceso.\r\n   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   en MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   en DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   en DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   en ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) en C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:línea 44\r\n   en UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   en System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003095501": {
+    "start": "10/03/2019 09:55:01",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: Failed while trying to open a file.\r\n   en UiPath.Excel.OLE.Ole32.OpenFile(String filePath, STGM openMode)\r\n   en UiPath.Excel.Encryption.OfficeCryptography.DecryptFile(String filePath, String password, Stream outputStream)\r\n   en UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   en System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003095516": {
+    "start": "10/03/2019 09:55:16",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: Failed while trying to open a file.\r\n   en UiPath.Excel.OLE.Ole32.OpenFile(String filePath, STGM openMode)\r\n   en UiPath.Excel.Encryption.OfficeCryptography.DecryptFile(String filePath, String password, Stream outputStream)\r\n   en UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   en System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003100220": {
+    "start": "10/03/2019 10:02:20",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.\r\n   en UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191003100331": {
+    "start": "10/03/2019 10:03:31",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.\r\n   en UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191003103813": {
+    "start": "10/03/2019 10:38:13",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\\Users\\rpa2\\Documents\\UiPath\\StateMachine - 4\\resources\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' porque está siendo utilizado en otro proceso.\r\n   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   en MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   en DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   en DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   en ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) en C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:línea 44\r\n   en UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   en System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003105747": {
+    "start": "10/03/2019 10:57:47",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003111259": {
+    "start": "10/03/2019 11:12:59",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003115647": {
+    "start": "10/03/2019 11:56:47",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Entrega Vta.Tradcn.  Crear: Resumen' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='Entrega Vta.Tradcn.  Crear: Resumen' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191003124911": {
+    "start": "10/03/2019 12:49:11",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003035812": {
+    "start": "10/03/2019 15:58:12",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003045805": {
+    "start": "10/03/2019 16:58:05",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191003052138": {
+    "start": "10/03/2019 17:21:38",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\\Users\\rpa2\\Documents\\UiPath\\StateMachine - 4\\resources\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' porque está siendo utilizado en otro proceso.\r\n   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   en MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   en DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   en DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   en ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) en C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:línea 44\r\n   en UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   en System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191005120429": {
+    "start": "10/05/2019 00:04:29",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: ok\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191005121737": {
+    "start": "10/05/2019 00:17:37",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: Next\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191005033003": {
+    "start": "10/05/2019 03:30:03",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191005035522": {
+    "start": "10/05/2019 03:55:22",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191007100017": {
+    "start": "10/07/2019 10:00:17",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191007102809": {
+    "start": "10/07/2019 10:28:09",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191007105030": {
+    "start": "10/07/2019 10:50:30",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191008093000": {
+    "start": "10/08/2019 09:30:00",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191008105221": {
+    "start": "10/08/2019 22:52:21",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191008115025": {
+    "start": "10/08/2019 23:50:25",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191009110944": {
+    "start": "10/09/2019 11:09:44",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191011111540": {
+    "start": "10/11/2019 11:15:40",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191011025809": {
+    "start": "10/11/2019 14:58:09",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "UiPath.Core.ElementOperationException: Timeout reached. ---> System.Runtime.InteropServices.COMException: Timeout reached.\r\n   en UiPath.UiNodeClass.BringIntoView()\r\n   en UiPath.Core.UiElement.BringToForeground()\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191011030314": {
+    "start": "10/11/2019 15:03:14",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191015094245": {
+    "start": "10/15/2019 09:42:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191015061532": {
+    "start": "10/15/2019 18:15:32",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191018024841": {
+    "start": "10/18/2019 14:48:41",
+    "LoadCredentials": {
+      "status": "System.Exception: Estan los dos Formatos al mismo tiempo Huevos y Gallina\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191018024939": {
+    "start": "10/18/2019 14:49:39",
+    "LoadCredentials": {
+      "status": "System.Exception: Estan los dos Formatos al mismo tiempo Huevos y Gallina\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191018025034": {
+    "start": "10/18/2019 14:50:34",
+    "LoadCredentials": {
+      "status": "System.NullReferenceException: Referencia a objeto no establecida como instancia de un objeto.\r\n   en lambda_method(Closure , ActivityContext )\r\n   en Microsoft.VisualBasic.Activities.VisualBasicValue`1.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity`1.InternalExecuteInResolutionContext(CodeActivityContext context)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteInResolutionContext[T](ActivityInstance parentInstance, Activity`1 expressionActivity)\r\n   en System.Activities.InArgument`1.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance activityInstance, ActivityExecutor executor)\r\n   en System.Activities.RuntimeArgument.TryPopulateValue(LocationEnvironment targetEnvironment, ActivityInstance targetActivityInstance, ActivityExecutor executor, Object argumentValueOverride, Location resultLocation, Boolean skipFastPath)\r\n   en System.Activities.ActivityInstance.InternalTryPopulateArgumentValueOrScheduleExpression(RuntimeArgument argument, Int32 nextArgumentIndex, ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Boolean isDynamicUpdate)\r\n   en System.Activities.ActivityInstance.ResolveArguments(ActivityExecutor executor, IDictionary`2 argumentValueOverrides, Location resultLocation, Int32 startIndex)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191018025435": {
+    "start": "10/18/2019 14:54:35",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191020074452": {
+    "start": "10/20/2019 19:44:52",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191020092240": {
+    "start": "10/20/2019 21:22:40",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191020092740": {
+    "start": "10/20/2019 21:27:40",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191020094316": {
+    "start": "10/20/2019 21:43:16",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191020104117": {
+    "start": "10/20/2019 22:41:17",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191021033251": {
+    "start": "10/21/2019 15:32:51",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191021035428": {
+    "start": "10/21/2019 15:54:28",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191021041416": {
+    "start": "10/21/2019 16:14:16",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191021042024": {
+    "start": "10/21/2019 16:20:24",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191022100741": {
+    "start": "10/22/2019 10:07:41",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191022101538": {
+    "start": "10/22/2019 10:15:38",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191022104044": {
+    "start": "10/22/2019 10:40:44",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191022113101": {
+    "start": "10/22/2019 11:31:01",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191022113952": {
+    "start": "10/22/2019 11:39:52",
+    "LoadCredentials": {
+      "status": "System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\\GSE_BOT\\Data\\Plantillas - RPA -Facturacion - Gallo(Gallina).xlsx' porque está siendo utilizado en otro proceso.\r\n   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)\r\n   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)\r\n   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)\r\n   en MS.Internal.IO.Zip.ZipArchive.OpenOnFile(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.ZipPackage..ctor(String path, FileMode mode, FileAccess access, FileShare share, Boolean streaming)\r\n   en System.IO.Packaging.Package.Open(String path, FileMode packageMode, FileAccess packageAccess, FileShare packageShare, Boolean streaming)\r\n   en DocumentFormat.OpenXml.Packaging.OpenXmlPackage.OpenCore(String path, Boolean readWriteMode)\r\n   en DocumentFormat.OpenXml.Packaging.SpreadsheetDocument.Open(String path, Boolean isEditable, OpenSettings openSettings)\r\n   en ClosedXML.Excel.XLWorkbook.LoadSheets(String fileName) en C:\\Projects\\ClosedXML\\ClosedXML\\Excel\\XLWorkbook_Load.cs:línea 44\r\n   en UiPath.Excel.WorkbookFile..ctor(String workbookPath, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.ConstructWorkbook(String path, String password, Boolean createNew)\r\n   en UiPath.Excel.Activities.WorkbookActivity`1.BeginExecute(AsyncCodeActivityContext context, AsyncCallback callback, Object state)\r\n   en System.Activities.AsyncCodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191106071414": {
+    "start": "11/06/2019 07:14:14",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191106071847": {
+    "start": "11/06/2019 07:18:47",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "System.Runtime.InteropServices.COMException (0x80040212): Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='#32770' title='SAP Logon 750' />\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191106075613": {
+    "start": "11/06/2019 07:56:13",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191106043304": {
+    "start": "11/06/2019 16:33:04",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191106045235": {
+    "start": "11/06/2019 16:52:35",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191107072921": {
+    "start": "11/07/2019 07:29:21",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191107075242": {
+    "start": "11/07/2019 07:52:42",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191107080032": {
+    "start": "11/07/2019 08:00:32",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191107081452": {
+    "start": "11/07/2019 08:14:52",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191107082348": {
+    "start": "11/07/2019 08:23:48",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191107083142": {
+    "start": "11/07/2019 08:31:42",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191107084029": {
+    "start": "11/07/2019 08:40:29",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191107085621": {
+    "start": "11/07/2019 08:56:21",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191107091538": {
+    "start": "11/07/2019 09:15:38",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191107092106": {
+    "start": "11/07/2019 09:21:06",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120110423": {
+    "start": "11/20/2019 11:04:23",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120113037": {
+    "start": "11/20/2019 11:30:37",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120113424": {
+    "start": "11/20/2019 11:34:24",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120113703": {
+    "start": "11/20/2019 11:37:03",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120041703": {
+    "start": "11/20/2019 16:17:03",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120065253": {
+    "start": "11/20/2019 18:52:53",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120070020": {
+    "start": "11/20/2019 19:00:20",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191120072137": {
+    "start": "11/20/2019 19:21:37",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191121102117": {
+    "start": "11/21/2019 10:21:17",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191121123019": {
+    "start": "11/21/2019 12:30:19",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191121025500": {
+    "start": "11/21/2019 14:55:00",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191121033345": {
+    "start": "11/21/2019 15:33:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191121040310": {
+    "start": "11/21/2019 16:03:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191121041432": {
+    "start": "11/21/2019 16:14:32",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191121042203": {
+    "start": "11/21/2019 16:22:03",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191125021102": {
+    "start": "11/25/2019 14:11:02",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191125031928": {
+    "start": "11/25/2019 15:19:28",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191125041206": {
+    "start": "11/25/2019 16:12:06",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191126104733": {
+    "start": "11/26/2019 10:47:33",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191126110534": {
+    "start": "11/26/2019 11:05:34",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191126114534": {
+    "start": "11/26/2019 11:45:34",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191126025546": {
+    "start": "11/26/2019 14:55:46",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191126034445": {
+    "start": "11/26/2019 15:44:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191126055926": {
+    "start": "11/26/2019 17:59:26",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191127011537": {
+    "start": "11/27/2019 13:15:37",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191127020827": {
+    "start": "11/27/2019 14:08:27",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP Easy Access*' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.EndExecute(NativeActivityContext context, IAsyncResult result)\r\n   en UiPath.Core.Activities.AsyncNativeActivity.BookmarkResumptionCallback(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkCallbackWrapper.Invoke(NativeActivityContext context, Bookmark bookmark, Object value)\r\n   en System.Activities.Runtime.BookmarkWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191127021445": {
+    "start": "11/27/2019 14:14:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": "UiPath.Core.SelectorNotFoundException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' /> ---> System.Runtime.InteropServices.COMException: Cannot find the UI element corresponding to this selector: <wnd app='saplogon.exe' cls='SAP_FRONTEND_SESSION' title='SAP' />\r\n   en UiPath.UiNodeClass.FindFirst(UiFindScope scope, String nodeID)\r\n   en UiPath.Core.UiElement.FindFirst(FindScope scope, Selector selector, IPlaceholderResolver placeholderResolver)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Core.Activities.ScopeActivity.OnFaulted(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.Invoke(NativeActivityFaultContext faultContext, Exception propagatedException, ActivityInstance propagatedFrom)\r\n   en System.Activities.Runtime.FaultCallbackWrapper.FaultWorkItem.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)"
+    }
+  },
+  "20191127022145": {
+    "start": "11/27/2019 14:21:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191127033227": {
+    "start": "11/27/2019 15:32:27",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191127055143": {
+    "start": "11/27/2019 17:51:43",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191128050845": {
+    "start": "11/28/2019 17:08:45",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191203085426": {
+    "start": "12/03/2019 08:54:26",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191203121608": {
+    "start": "12/03/2019 12:16:08",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191203063101": {
+    "start": "12/03/2019 18:31:01",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191205082136": {
+    "start": "12/05/2019 08:21:36",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191205085241": {
+    "start": "12/05/2019 08:52:41",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191205091846": {
+    "start": "12/05/2019 09:18:46",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20191205095141": {
+    "start": "12/05/2019 09:51:41",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {
+      "status": true
+    },
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200106022149": {
+    "start": "01/06/2020 14:21:49",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200106022608": {
+    "start": "01/06/2020 14:26:08",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200106023616": {
+    "start": "01/06/2020 14:36:16",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200106054442": {
+    "start": "01/06/2020 17:44:42",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200106054955": {
+    "start": "01/06/2020 17:49:55",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200106055219": {
+    "start": "01/06/2020 17:52:19",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107095951": {
+    "start": "01/07/2020 09:59:51",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107100405": {
+    "start": "01/07/2020 10:04:05",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107104437": {
+    "start": "01/07/2020 10:44:37",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107104843": {
+    "start": "01/07/2020 10:48:43",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107113746": {
+    "start": "01/07/2020 11:37:46",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107115131": {
+    "start": "01/07/2020 11:51:31",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107115329": {
+    "start": "01/07/2020 11:53:29",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107115801": {
+    "start": "01/07/2020 11:58:01",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107120048": {
+    "start": "01/07/2020 12:00:48",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107120851": {
+    "start": "01/07/2020 12:08:51",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107013516": {
+    "start": "01/07/2020 13:35:16",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107015009": {
+    "start": "01/07/2020 13:50:09",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107020346": {
+    "start": "01/07/2020 14:03:46",
+    "LoadCredentials": {
+      "status": "UiPath.Excel.ExcelException: Excepción de HRESULT: 0x800AC472 ---> System.Runtime.InteropServices.COMException: Excepción de HRESULT: 0x800AC472\r\n   en Microsoft.Office.Interop.Excel.Workbooks.Open(String Filename, Object UpdateLinks, Object ReadOnly, Object Format, Object Password, Object WriteResPassword, Object IgnoreReadOnlyRecommended, Object Origin, Object Delimiter, Object Editable, Object Notify, Object Converter, Object AddToMru, Object Local, Object CorruptLoad)\r\n   en UiPath.Excel.WorkbookApplication.InitializeCurrentWorkbook(WorkbookArguments workbookArguments, Workbooks workbooks)\r\n   en UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   en UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   en UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)\r\n   en UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)\r\n   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107020359": {
+    "start": "01/07/2020 14:03:59",
+    "LoadCredentials": {
+      "status": "UiPath.Excel.ExcelException: Excepción de HRESULT: 0x800AC472 ---> System.Runtime.InteropServices.COMException: Excepción de HRESULT: 0x800AC472\r\n   en Microsoft.Office.Interop.Excel.Workbooks.Open(String Filename, Object UpdateLinks, Object ReadOnly, Object Format, Object Password, Object WriteResPassword, Object IgnoreReadOnlyRecommended, Object Origin, Object Delimiter, Object Editable, Object Notify, Object Converter, Object AddToMru, Object Local, Object CorruptLoad)\r\n   en UiPath.Excel.WorkbookApplication.InitializeCurrentWorkbook(WorkbookArguments workbookArguments, Workbooks workbooks)\r\n   en UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   --- Fin del seguimiento de la pila de la excepción interna ---\r\n   en UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   en UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   en UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)\r\n   en UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)\r\n   en System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107020430": {
+    "start": "01/07/2020 14:04:30",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107020735": {
+    "start": "01/07/2020 14:07:35",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107044010": {
+    "start": "01/07/2020 16:40:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200107052458": {
+    "start": "01/07/2020 17:24:58",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200108021740": {
+    "start": "01/08/2020 14:17:40",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200108053810": {
+    "start": "01/08/2020 17:38:10",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200109101909": {
+    "start": "01/09/2020 10:19:09",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   en System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   en System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   en System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200120102454": {
+    "start": "01/20/2020 10:24:54",
+    "LoadCredentials": {
+      "status": "UiPath.Excel.ExcelException: Microsoft Excel no puede obtener acceso al archivo 'C:\\CAVALI_BOT\\RegistroTC\\credenciales\\A90E0B70'. Puede haber varios motivos:\n\n• El nombre o la ruta del archivo no existen.\n• Otro programa está usando el archivo.\n• El libro que está intentando guardar tiene el mismo nombre que otro libro que está abierto en estos momentos. ---> System.Runtime.InteropServices.COMException: Microsoft Excel no puede obtener acceso al archivo 'C:\\CAVALI_BOT\\RegistroTC\\credenciales\\A90E0B70'. Puede haber varios motivos:\n\n• El nombre o la ruta del archivo no existen.\n• Otro programa está usando el archivo.\n• El libro que está intentando guardar tiene el mismo nombre que otro libro que está abierto en estos momentos.\r\n   at Microsoft.Office.Interop.Excel._Workbook.SaveAs(Object Filename, Object FileFormat, Object Password, Object WriteResPassword, Object ReadOnlyRecommended, Object CreateBackup, XlSaveAsAccessMode AccessMode, Object ConflictResolution, Object AddToMru, Object TextCodepage, Object TextVisualLayout, Object Local)\r\n   at UiPath.Excel.WorkbookApplication.CreateNewWorkbookIfNeeded(String workbookPath, Boolean createNew, Workbooks workbooks)\r\n   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   --- End of inner exception stack trace ---\r\n   at UiPath.Excel.WorkbookApplication.Initialize(WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   at UiPath.Excel.WorkbookApplication.Initialize(Application excelApp, WorkbookArguments args, Boolean onlyIfWorkbookExists)\r\n   at UiPath.Excel.Activities.ExcelApplicationScope.<>c.<.ctor>b__48_0(WorkbookArguments args)\r\n   at UiPath.Excel.Activities.ExcelApplicationScope.Execute(NativeActivityContext context)\r\n   at System.Activities.NativeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200120103157": {
+    "start": "01/20/2020 10:31:57",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200204103525": {
+    "start": "02/04/2020 10:35:25",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  },
+  "20200204103905": {
+    "start": "02/04/2020 10:39:05",
+    "LoadCredentials": {
+      "status": true
+    },
+    "IngresoCredeneciales": {},
+    "IngresoCons": {
+      "status": "System.Exception: TERMINO PROCESO\r\n   at System.Activities.Statements.Throw.Execute(CodeActivityContext context)\r\n   at System.Activities.CodeActivity.InternalExecute(ActivityInstance instance, ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.ActivityInstance.Execute(ActivityExecutor executor, BookmarkManager bookmarkManager)\r\n   at System.Activities.Runtime.ActivityExecutor.ExecuteActivityWorkItem.ExecuteBody(ActivityExecutor executor, BookmarkManager bookmarkManager, Location resultLocation)"
+    }
+  }
+}
